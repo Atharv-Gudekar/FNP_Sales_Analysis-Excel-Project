@@ -11,4 +11,4 @@ Category: Highlighting the best-performing product categories.
 
 Time: Understanding sales patterns throughout the day and across the year.
 
-This tool also identifies the Top 5 Products and Top 10 Cities by Revenue, making it a valuable asset for data-driven strategic planning and decision-makin
+This tool also identifies the Top 5 Products and Top 10 Cities by Revenue, making it a valuable asset for data-driven strategic planning and decision-making.
