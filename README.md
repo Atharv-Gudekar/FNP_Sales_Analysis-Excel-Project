@@ -1,14 +1,46 @@
-# FNP_Sales_Analysis-Excel-Project
-Data Analytics Project
+# FNP Sales Analysis Dashboard
 
-This project features a comprehensive Sales Analysis Dashboard designed to provide key insights into business performance.
+This repository contains an **Excel-based Sales Analysis Dashboard** for FNP (Ferns N Petals). The dashboard provides key insights into sales, revenue, and order patterns across occasions, products, months, and cities. It is designed to help the business monitor performance and make data-driven decisions.
 
-The dashboard visualizes critical metrics such as Total Orders, Total Revenue, and Average Order Delivery Time. It helps identify sales trends by:
+---
 
-Occasion: Analyzing revenue peaks during holidays like Holi, Diwali, and Valentine's Day.
+## 📊 Dashboard Overview
 
-Category: Highlighting the best-performing product categories.
+The dashboard includes the following key metrics:
 
-Time: Understanding sales patterns throughout the day and across the year.
+- **Total Orders:** 1,000
+- **Total Revenue:** ₹ 35,20,984.00
+- **Average Spending per Order:** ₹ 3,520.98
+- **Average Order Delivery Time:** 5.53 days
 
-This tool also identifies the Top 5 Products and Top 10 Cities by Revenue, making it a valuable asset for data-driven strategic planning and decision-making.
+### Key Visualizations
+
+1. **Revenue by Occasions**  
+   Tracks revenue generated across different occasions such as Anniversary, Birthday, Diwali, Holi, Raksha Bandhan, and Valentine's Day.
+
+2. **Revenue by Category**  
+   Displays revenue distribution across product categories like Cake, Colors, Raksha Bandhan Gifts, Soft Toys, and Sweets.
+
+3. **Revenue by Hours (Order Time)**  
+   Shows hourly revenue trends to identify peak ordering hours.
+
+4. **Revenue by Months**  
+   Monthly revenue trends to analyze seasonal performance.
+
+5. **Top 5 Products by Revenue**  
+   Highlights the top-performing products based on revenue.
+
+6. **Top 10 Cities by Revenue**  
+   Identifies cities generating the most revenue for better market focus.
+
+---
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Charts and Graphs
+- Conditional Formatting and Data Slicers
+
+---
+
+
